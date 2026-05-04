@@ -1,0 +1,27 @@
+[
+  { "year": 2024, "month": "Jan", "sales": 2341, "purchase": 2546 },
+  { "year": 2024, "month": "Feb", "sales": 2100, "purchase": 2400 },
+  { "year": 2024, "month": "Mar", "sales": 2500, "purchase": 2700 },
+  { "year": 2024, "month": "Apr", "sales": 2700, "purchase": 2900 },
+  { "year": 2024, "month": "May", "sales": 3000, "purchase": 3200 },
+  { "year": 2024, "month": "Jun", "sales": 2800, "purchase": 3000 },
+  { "year": 2024, "month": "Jul", "sales": 3200, "purchase": 3400 },
+  { "year": 2024, "month": "Aug", "sales": 3100, "purchase": 3300 },
+  { "year": 2024, "month": "Sep", "sales": 2900, "purchase": 3100 },
+  { "year": 2024, "month": "Oct", "sales": 3300, "purchase": 3500 },
+  { "year": 2024, "month": "Nov", "sales": 3600, "purchase": 3800 },
+  { "year": 2024, "month": "Dec", "sales": 4000, "purchase": 4200 },
+
+  { "year": 2025, "month": "Jan", "sales": 2600, "purchase": 2800 },
+  { "year": 2025, "month": "Feb", "sales": 2400, "purchase": 2600 },
+  { "year": 2025, "month": "Mar", "sales": 2800, "purchase": 3000 },
+  { "year": 2025, "month": "Apr", "sales": 3000, "purchase": 3200 },
+  { "year": 2025, "month": "May", "sales": 3400, "purchase": 2100 },
+  { "year": 2025, "month": "Jun", "sales": 2500, "purchase": 3400 },
+  { "year": 2025, "month": "Jul", "sales": 3600, "purchase": 3800 },
+  { "year": 2025, "month": "Aug", "sales": 3500, "purchase": 3700 },
+  { "year": 2025, "month": "Sep", "sales": 3300, "purchase": 3500 },
+  { "year": 2025, "month": "Oct", "sales": 3700, "purchase": 3900 },
+  { "year": 2025, "month": "Nov", "sales": 4000, "purchase": 4200 },
+  { "year": 2025, "month": "Dec", "sales": 4500, "purchase": 4700 }
+]

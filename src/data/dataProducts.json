@@ -1,0 +1,22 @@
+[
+        { "product": "Laptop", "stock": 132, "sales": 98, "color": "#eb9b34" },
+        { "product": "Tablet", "stock": 98, "sales": 76, "color": "#34c3eb" },
+        { "product": "Smartphone", "stock": 210, "sales": 180, "color": "#8e44ad" },
+        { "product": "Monitor", "stock": 85, "sales": 60, "color": "#2ecc71" },
+        { "product": "Keyboard", "stock": 150, "sales": 120, "color": "#f1c40f" },
+        { "product": "Mouse", "stock": 170, "sales": 140, "color": "#e67e22" },
+        { "product": "Printer", "stock": 60, "sales": 45, "color": "#e74c3c" },
+        { "product": "Scanner", "stock": 40, "sales": 25, "color": "#1abc9c" },
+        { "product": "Webcam", "stock": 75, "sales": 55, "color": "#3498db" },
+        { "product": "Headphones", "stock": 190, "sales": 160, "color": "#9b59b6" },
+        { "product": "Speaker", "stock": 110, "sales": 85, "color": "#16a085" },
+        { "product": "Microphone", "stock": 70, "sales": 50, "color": "#27ae60" },
+        { "product": "Charger", "stock": 200, "sales": 175, "color": "#d35400" },
+        { "product": "Power Bank", "stock": 180, "sales": 150, "color": "#c0392b" },
+        { "product": "Router", "stock": 95, "sales": 70, "color": "#2980b9" },
+        { "product": "Modem", "stock": 88, "sales": 65, "color": "#7f8c8d" },
+        { "product": "USB Drive", "stock": 220, "sales": 190, "color": "#2c3e50" },
+        { "product": "External HDD", "stock": 130, "sales": 100, "color": "#f39c12" },
+        { "product": "SSD", "stock": 140, "sales": 115, "color": "#8e44ad" },
+        { "product": "Graphics Card", "stock": 50, "sales": 35, "color": "#34495e" }
+    ]

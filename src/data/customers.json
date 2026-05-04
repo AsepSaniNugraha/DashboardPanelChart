@@ -1,0 +1,44 @@
+[
+  {
+    "year": 2020,
+    "Gen Z": 750,
+    "Millenial": 1215,
+    "Gen X": 930,
+    "Baby Boomer": 400
+  },
+  {
+    "year": 2021,
+    "Gen Z": 820,
+    "Millenial": 1300,
+    "Gen X": 980,
+    "Baby Boomer": 420
+  },
+  {
+    "year": 2022,
+    "Gen Z": 900,
+    "Millenial": 1380,
+    "Gen X": 1020,
+    "Baby Boomer": 450
+  },
+  {
+    "year": 2023,
+    "Gen Z": 1020,
+    "Millenial": 1450,
+    "Gen X": 1100,
+    "Baby Boomer": 470
+  },
+  {
+    "year": 2024,
+    "Gen Z": 1150,
+    "Millenial": 1520,
+    "Gen X": 1180,
+    "Baby Boomer": 500
+  },
+  {
+    "year": 2025,
+    "Gen Z": 1300,
+    "Millenial": 1600,
+    "Gen X": 1250,
+    "Baby Boomer": 520
+  }
+]

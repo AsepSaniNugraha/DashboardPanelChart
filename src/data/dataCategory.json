@@ -1,0 +1,10 @@
+[
+        { "category": "Storage", "stock": 124, "product": 34, "color": "#3498db" },
+        { "category": "Networking", "stock": 98, "product": 22, "color": "#1abc9c" },
+        { "category": "Peripherals", "stock": 176, "product": 45, "color": "#9b59b6" },
+        { "category": "Accessories", "stock": 210, "product": 58, "color": "#f1c40f" },
+        { "category": "Components", "stock": 142, "product": 39, "color": "#e67e22" },
+        { "category": "Audio", "stock": 88, "product": 25, "color": "#e74c3c" },
+        { "category": "Office Equipment", "stock": 76, "product": 18, "color": "#2ecc71" },
+        { "category": "Mobile Devices", "stock": 165, "product": 41, "color": "#34495e" }
+    ]

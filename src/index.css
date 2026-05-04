@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+
+.navLink:after {
+    content: "";
+    position: absolute;
+    right: 0;
+    top: -20px;
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: 10px 10px 0 1px white;
+    pointer-events: none;
+}
+
+.navLink:before {
+    content: "";
+    position: absolute;
+    right: 0;
+    bottom: -20px;
+    width: 20px;
+    height: 20px;
+    background-color: transparent;
+    border-radius: 50%;
+    box-shadow: 10px -10px 0 1px white;
+    pointer-events: none;
+}
